@@ -185,7 +185,7 @@ if __name__ == "__main__":
     # probability of each word to be in corpus
     probs = get_probs(word_count_dict)
     
-    my_word = 'dot'
+    my_word = 'dys'
     tmp_corrections = get_corrections(my_word, probs, vocab, 2, verbose = True)
     
     for i, word_prob in enumerate(tmp_corrections):
