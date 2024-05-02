@@ -1,5 +1,5 @@
 ## A naive autocorrection program
-- words n-edit distance away from entered word will be searched and among those words word with heighest probability will be suggested
+- words n-edit distance away from entered word will be searched and among those words word with highest probability will be suggested
 - Vocabulary is made from mini shakespeare dataset.
 - Example:
       Entered word: dys  
